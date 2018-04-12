@@ -1,0 +1,13 @@
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\obj\Debug\DapperDemo01.csprojResolveAssemblyReference.cache
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\DapperDemo01.exe.config
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\DapperDemo01.exe
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\DapperDemo01.pdb
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\Dapper.dll
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\Dapper.xml
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\obj\Debug\DapperDemo01.exe
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\obj\Debug\DapperDemo01.pdb
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\Castle.DynamicProxy.dll
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\IBatisNet.Common.dll
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\IBatisNet.DataMapper.dll
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\IBatisNet.Common.xml
+D:\Learning\Dapper\DapperDemo01\DapperDemo01\bin\Debug\IBatisNet.DataMapper.xml

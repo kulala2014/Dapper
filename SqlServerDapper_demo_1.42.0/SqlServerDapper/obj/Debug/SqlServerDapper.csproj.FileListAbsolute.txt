@@ -1,0 +1,6 @@
+D:\Learning\Dapper\SqlServerDapper_demo_1.42.0\SqlServerDapper\bin\Debug\SqlServerDapper.exe.config
+D:\Learning\Dapper\SqlServerDapper_demo_1.42.0\SqlServerDapper\bin\Debug\SqlServerDapper.exe
+D:\Learning\Dapper\SqlServerDapper_demo_1.42.0\SqlServerDapper\bin\Debug\SqlServerDapper.pdb
+D:\Learning\Dapper\SqlServerDapper_demo_1.42.0\SqlServerDapper\obj\Debug\SqlServerDapper.csprojResolveAssemblyReference.cache
+D:\Learning\Dapper\SqlServerDapper_demo_1.42.0\SqlServerDapper\obj\Debug\SqlServerDapper.exe
+D:\Learning\Dapper\SqlServerDapper_demo_1.42.0\SqlServerDapper\obj\Debug\SqlServerDapper.pdb
